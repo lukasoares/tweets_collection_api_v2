@@ -1,4 +1,4 @@
-<h1>Coleta de dados no Twitter utlizando a API V2</h1>
+<h1>Coleta de dados no Twitter utilizando a API V2</h1>
 
 <p align = center> 
     <a href = '#sobre'>Sobre</a> •
