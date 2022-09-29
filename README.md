@@ -18,5 +18,5 @@ anterior e os novos usuários atualmente não tem acesso a todos os recursos da 
 <h2 id = 'bibliotecas'>Bibliotecas</h2>
 
 1.	<a href='https://docs.tweepy.org/en/stable/'>tweetpy</a> - Neste link esta presente tanto a documentação da API V1 quanto da V2<br>	
-2.	<a href='https://pandas.pydata.org/docs/index.html'>pandas</a> - Principal biblioteca de Python para exploração, manipulação e análise de dados do Python <br>
+2.	<a href='https://pandas.pydata.org/docs/index.html'>pandas</a> - Principal biblioteca de Python para exploração, manipulação e análise de dados<br>
 
